@@ -9,7 +9,7 @@
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Self-Service-BI/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Self-Service-BI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Self-Service-BI?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Self-Service-BI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Self-Service-BI?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
@@ -83,46 +83,46 @@ Key architectural pillars of modern Self-Service BI:
 
 *Curated open-source Business Intelligence platforms, semantic layers, and interactive analytics engines. Sorted in descending order by GitHub Star count.*
 
-1. **[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
+1. **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
    📈 The open and composable observability and data visualization platform. Visualizes metrics, logs, and traces from 100+ data sources, increasingly adopted for real-time operational and business metric dashboards.
 
-2. **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
+2. **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
    🚀 Leading enterprise-ready open-source (Apache 2.0) data exploration and visualization platform. Offers an intuitive no-code chart builder, high-performance SQL Lab, semantic dataset layers, granular security filters, and cloud-native scaling.
 
-3. **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+3. **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
    🎯 The easiest, most popular way for everyone in an organization to ask questions and learn from data. Features a friendly visual query builder, instant drill-downs, automated email/Slack alerts, and simple Docker/JAR deployment.
 
-4. **[Streamlit](https://github.com/streamlit/streamlit)** [![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social&color=white)](https://github.com/streamlit/streamlit/stargazers)  
+4. **[Streamlit](https://github.com/streamlit/streamlit)** [![GitHub_Stars](https://img.shields.io/github/stars/streamlit/streamlit?style=social&color=white)](https://github.com/streamlit/streamlit/stargazers)  
    🐍 Faster way to build and share custom self-service data apps and interactive analytical dashboards in pure Python without frontend development.
 
-5. **[Redash](https://github.com/getredash/redash)** [![GitHub stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)  
+5. **[Redash](https://github.com/getredash/redash)** [![GitHub_Stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers)  
    🔍 Lightweight, developer-friendly open-source tool for querying databases with SQL, creating rich visualizations, sharing interactive dashboards, and automating scheduled reports.
 
-6. **[Plotly Dash](https://github.com/plotly/dash)** [![GitHub stars](https://img.shields.io/github/stars/plotly/dash?style=social&color=white)](https://github.com/plotly/dash/stargazers)  
+6. **[Plotly Dash](https://github.com/plotly/dash)** [![GitHub_Stars](https://img.shields.io/github/stars/plotly/dash?style=social&color=white)](https://github.com/plotly/dash/stargazers)  
    📊 Production-grade framework for building analytical web applications, interactive scientific dashboards, and self-service reporting in Python, R, and Julia.
 
-7. **[Cube](https://github.com/cube-js/cube)** [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)  
+7. **[Cube](https://github.com/cube-js/cube)** [![GitHub_Stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)  
    🧱 Universal semantic layer and headless BI engine. Provides data modeling, access control, caching pre-aggregations, and SQL/REST/GraphQL APIs to power self-service BI and embedded applications.
 
-8. **[PyGWalker](https://github.com/Kanaries/pygwalker)** [![GitHub stars](https://img.shields.io/github/stars/Kanaries/pygwalker?style=social&color=white)](https://github.com/Kanaries/pygwalker/stargazers)  
+8. **[PyGWalker](https://github.com/Kanaries/pygwalker)** [![GitHub_Stars](https://img.shields.io/github/stars/Kanaries/pygwalker?style=social&color=white)](https://github.com/Kanaries/pygwalker/stargazers)  
    🎨 Turns pandas/polars dataframes into a Tableau-like visual exploration UI directly inside Jupyter Notebooks and Streamlit apps with zero setup.
 
-9. **[Evidence](https://github.com/evidence-dev/evidence)** [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)  
+9. **[Evidence](https://github.com/evidence-dev/evidence)** [![GitHub_Stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)  
    📝 Code-based Business Intelligence framework for building publication-quality data products and reports using Markdown and SQL, managed via version control and Git.
 
-10. **[Apache Zeppelin](https://github.com/apache/zeppelin)** [![GitHub stars](https://img.shields.io/github/stars/apache/zeppelin?style=social&color=white)](https://github.com/apache/zeppelin/stargazers)  
+10. **[Apache Zeppelin](https://github.com/apache/zeppelin)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/zeppelin?style=social&color=white)](https://github.com/apache/zeppelin/stargazers)  
     📓 Web-based notebook that enables data-driven, interactive data analytics and collaborative document creation with SQL, Scala, Python, and Apache Spark.
 
-11. **[Lightdash](https://github.com/lightdash/lightdash)** [![GitHub stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)  
+11. **[Lightdash](https://github.com/lightdash/lightdash)** [![GitHub_Stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)  
     ⚡ Open-source, dbt-native self-service BI platform. Converts your existing dbt metrics and models into an intuitive self-service exploration UI with governed dashboards and AI assistance.
 
-12. **[Rill](https://github.com/rilldata/rill)** [![GitHub stars](https://img.shields.io/github/stars/rilldata/rill?style=social&color=white)](https://github.com/rilldata/rill/stargazers)  
+12. **[Rill](https://github.com/rilldata/rill)** [![GitHub_Stars](https://img.shields.io/github/stars/rilldata/rill?style=social&color=white)](https://github.com/rilldata/rill/stargazers)  
     ⏱️ Fast, code-first BI and metrics layer engineered for high-cardinality operational data and real-time DuckDB/ClickHouse powered dashboards.
 
-13. **[Malloy](https://github.com/malloydata/malloy)** [![GitHub stars](https://img.shields.io/github/stars/malloydata/malloy?style=social&color=white)](https://github.com/malloydata/malloy/stargazers)  
+13. **[Malloy](https://github.com/malloydata/malloy)** [![GitHub_Stars](https://img.shields.io/github/stars/malloydata/malloy?style=social&color=white)](https://github.com/malloydata/malloy/stargazers)  
     🔮 Experimental open-source data modeling and query language created by the founders of Looker, designed to compile rich semantic calculations into optimized SQL.
 
-14. **[Helical Insight](https://github.com/helicalinsight/helicalinsight)** [![GitHub stars](https://img.shields.io/github/stars/helicalinsight/helicalinsight?style=social&color=white)](https://github.com/helicalinsight/helicalinsight/stargazers)  
+14. **[Helical Insight](https://github.com/helicalinsight/helicalinsight)** [![GitHub_Stars](https://img.shields.io/github/stars/helicalinsight/helicalinsight?style=social&color=white)](https://github.com/helicalinsight/helicalinsight/stargazers)  
     🧩 Open-source Java-based BI framework offering ad-hoc reporting, dashboards, rule engines, and API embedding capabilities.
 
 ---
