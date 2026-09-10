@@ -1,5 +1,9 @@
 # Awesome-Self-Service-BI
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Self Service BI Banner" width="100%">
+</p>
+
 ## Top Self-Service BI Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
